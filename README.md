@@ -31,3 +31,12 @@ Attention model achieved the highest 0.29 BLEU-4 score.
 |Conditional Encoder-Decoder|0.58|0.41|0.31|0.23|
 |Encoder-Decoder with Attention|**0.62**|**0.47**|**0.37**|**0.29**|
 
+# Comparison of our Attention model with Google Translator
+
+I also compared our trained Attention model with Google Translator. Our model performed really well compared to Google Translator for short sentences. Here are few examples.
+
+|SOURCE|PREDICTED|GOOGLE TRANSLATOR|
+|------|------|------|
+|we should help tom|wir sollten tom helfen|wir sollten tom helfen|
+|do you want to live in boston|willst du in boston wohnen|willst du in boston leben|
+
