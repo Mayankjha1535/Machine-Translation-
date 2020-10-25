@@ -20,7 +20,7 @@ As the previous models were failing for the translation of long sentences. Hence
 # Plot Attention weights
 
 I also investigated the role of attention by plotting attention weights. This shows the focus of the decoder on the specific words of the encoder at each timestep.
-![](Attention Weights/1.png)
+![](AttentionWeights/1.png)
 
 # Model evaluation
 
