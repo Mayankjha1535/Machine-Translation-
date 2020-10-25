@@ -37,6 +37,6 @@ I also compared our trained Attention model with Google Translator. Our model pe
 
 |SOURCE|PREDICTED|GOOGLE TRANSLATOR|
 |------|------|------|
-|we should help tom|wir sollten tom helfen|wir sollten tom helfen|
+|we should help tom|**wir sollten tom helfen**|wir sollten tom helfen|
 |do you want to live in boston|willst du in boston wohnen|willst du in boston leben|
 
