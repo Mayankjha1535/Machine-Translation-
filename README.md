@@ -25,3 +25,5 @@ I also investigated the role of attention by plotting attention weights. This sh
 
 I evaluated the model using BLEU score.
 Attention model achieved the highest 0.29 BLEU-4 score.
+|MODELS|BLEU-1|BLEU-2|BLEU-3|BLEU-4|
+|------|------|------|------|------|
