@@ -29,5 +29,5 @@ Attention model achieved the highest 0.29 BLEU-4 score.
 |------|------|------|------|------|
 |Unconditional Encoder-Decoder|0.44|0.30|0.23|0.13|
 |Conditional Encoder-Decoder|0.58|0.41|0.31|0.23|
-|Encoder-Decoder with Attention|0.62|0.47|0.37|0.29|
+|Encoder-Decoder with Attention|**0.62**|**0.47**|**0.37**|**0.29**|
 
